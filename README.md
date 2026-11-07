@@ -299,7 +299,7 @@ Content-Type: application/json
 
 ```bash
 # 1. Clonar este repositório vitrine
-git clone https://github.com/<seu-usuario>/saggaz-showcase.git
+git clone https://github.com/ArthurMachado1/saggaz-showcase.git
 cd saggaz-showcase
 
 # 2. Executar o teste do motor de Visão Computacional (OMR)
